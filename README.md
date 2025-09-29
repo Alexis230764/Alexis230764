@@ -11,9 +11,9 @@
 <div align="center">
 <h3>Contact Me :handshake:</h3>
 
-<a href="https://www.facebook.com/in/" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-marcelo__garbin-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
+<a href="https://www.facebook.com/in/" target="_blank"><img src="https://img.shields.io/badge/--blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/--pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/--blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 
 
 
